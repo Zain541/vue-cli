@@ -22,3 +22,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 cd vue-cli
 npm install
 npm run dev
+
+
+# to install vue project
+vue init webpack-simple project-name
